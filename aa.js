@@ -9,3 +9,4 @@ function fuckyou (a, b) {
 }
 
 fuckyou(1)
+fuckyou(2)

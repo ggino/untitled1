@@ -4,5 +4,4 @@
 function fuck() {
   console.log('fuck0')
   console.log('fuck again')
-
 }
